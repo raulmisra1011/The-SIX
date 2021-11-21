@@ -2,8 +2,13 @@
 void returnGreet(){
     printf("Welcome to World!!");
 }
-int main()
+void ramesh()
 {
+    printf("ramesh");
+}
+int main()
+{   
+    ramesh();
     returnGreet();
     return 0;
 }

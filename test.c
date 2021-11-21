@@ -3,7 +3,14 @@ void greet()
 {
     printf("Hello world");
 }
+ 
+void ramesh()
+{
+    printf("ramesh");
+}
 int main()
-{   greet();
+{   
+    greet();
+    ramesh();
     return 0;
 }

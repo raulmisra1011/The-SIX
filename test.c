@@ -1,5 +1,10 @@
 #include <stdio.h>
-int main()
+void ramesh()
 {
+    printf("ramesh");
+}
+int main()
+{   
+    ramesh();
     return 0;
 }
